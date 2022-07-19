@@ -1,0 +1,46 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "e7efdf9b7767070e6c08",
+  "publicPath": "",
+  "outputPath": "/home/chase/repos/hello-frontity/build/static",
+  "assetsByChunkName": {
+    "hello-frontity": "hello-frontity.module.js"
+  },
+  "assets": [
+    {
+      "name": "hello-frontity.module.js",
+      "size": 6521635,
+      "chunks": [
+        "hello-frontity"
+      ],
+      "chunkNames": [
+        "hello-frontity"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "hello-frontity": {
+      "chunks": [
+        "hello-frontity"
+      ],
+      "assets": [
+        "hello-frontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "hello-frontity",
+      "files": [
+        "hello-frontity.module.js"
+      ]
+    }
+  ]
+}
