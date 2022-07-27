@@ -1,18 +1,18 @@
 {
   "errors": [],
   "warnings": [],
-  "hash": "490757bf40d53ca293ef",
+  "hash": "a46dc897ddbd44c2c892",
   "publicPath": "",
   "outputPath": "/home/chase/repos/hello-frontity/build/static",
   "assetsByChunkName": {
     "hello-frontity": [
       "hello-frontity.module.js",
-      "hello-frontity.e25ab94b92a82d50090c.hot-update.js"
+      "hello-frontity.b604bbae4173e1740f62.hot-update.js"
     ]
   },
   "assets": [
     {
-      "name": "e25ab94b92a82d50090c.hot-update.json",
+      "name": "b604bbae4173e1740f62.hot-update.json",
       "size": 56,
       "chunks": [],
       "chunkNames": [],
@@ -23,8 +23,8 @@
       "emitted": false
     },
     {
-      "name": "hello-frontity.e25ab94b92a82d50090c.hot-update.js",
-      "size": 3507,
+      "name": "hello-frontity.b604bbae4173e1740f62.hot-update.js",
+      "size": 4255,
       "chunks": [
         "hello-frontity"
       ],
@@ -39,7 +39,7 @@
     },
     {
       "name": "hello-frontity.module.js",
-      "size": 6639049,
+      "size": 6639797,
       "chunks": [
         "hello-frontity"
       ],
@@ -58,7 +58,7 @@
       ],
       "assets": [
         "hello-frontity.module.js",
-        "hello-frontity.e25ab94b92a82d50090c.hot-update.js"
+        "hello-frontity.b604bbae4173e1740f62.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -70,7 +70,7 @@
       "id": "hello-frontity",
       "files": [
         "hello-frontity.module.js",
-        "hello-frontity.e25ab94b92a82d50090c.hot-update.js"
+        "hello-frontity.b604bbae4173e1740f62.hot-update.js"
       ]
     }
   ]
